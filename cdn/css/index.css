@@ -1,0 +1,79 @@
+:root {
+    --background: #0b0a70;
+    --alt-background: #100d92;
+    --color: #FFF;
+}
+body {
+    background: var(--background);
+    color: var(--color);
+    margin: 0;
+    width: calc(100% - 1rem * 2);
+    height: calc(100vh - 5rem * 2);
+    padding: 5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+#container {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, 15.5rem);
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.tome {
+    width: 15rem;
+    height: 20rem;
+    overflow: hidden;
+    background: var(--alt-background);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 1rem;
+    position: relative;
+    transition: transform .5s ease, border-radius .5s ease;
+}
+.tome:hover {
+    transform: scale(1.05);
+    border-radius: .24rem 1rem 1rem 1rem;
+}
+.tome p {
+    margin: 0;
+    padding: .25rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    opacity: 0;
+    background: red;
+    border-radius: .25rem;
+    transition: opacity .5s ease;
+}
+.tome.owned p {
+    background: green;
+}
+.tome:hover p {
+    opacity: 1;
+}
+.tome img {
+    width: 100%;
+    max-height: 80%;
+    filter: saturate(0);
+}
+.tome.owned img {
+    filter: saturate(1);
+}
+.tome h4 {
+    text-align: center;
+    margin: 0;
+    padding: .5rem;
+    width: calc(100% - .5rem * 2);
+    height: calc(15% - .5rem * 2);
+}
