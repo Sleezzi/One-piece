@@ -172,8 +172,12 @@
         "owned": true
     },
     {
-        "name": "Je comprends ce que vous ressentez",
+        "name": "JRentrons",
         "owned": true
+    },
+    {
+        "name": "Je comprends ce que vous ressentez",
+        "owned": false
     },
     {
         "name": "Aventure sur l'île fantôme",
@@ -293,10 +297,6 @@
     },
     {
         "name": "Ma gratitude",
-        "owned": false
-    },
-    {
-        "name": "Poursuis ta route !",
         "owned": false
     },
     {
