@@ -117,23 +117,23 @@
     },
     {
         "name": "Capriccio",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Nous sommes là",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Love Song",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Davy Back Fight !!",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Water Seven, la cité sur l'eau",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Capitaine",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Justice n°9",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Monsieur Tom",
@@ -177,7 +177,7 @@
     },
     {
         "name": "Je comprends ce que vous ressentez",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Aventure sur l'île fantôme",
@@ -197,11 +197,11 @@
     },
     {
         "name": "De nouveau face au mur",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Les Onze Supernovae",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Roger & Rayleigh",
@@ -213,7 +213,7 @@
     },
     {
         "name": "Plus personne ne m'arrêtera",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Un travelo en enfer",
@@ -225,15 +225,15 @@
     },
     {
         "name": "Guerre au sommet",
-        "owned": false
+        "owned": true
     },
     {
         "name": "L'Ère de Barbe Blanche",
-        "owned": false
+        "owned": true
     },
     {
         "name": "La Mort de Portgas D. Ace",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Petit frère",
@@ -428,8 +428,8 @@
         "owned": false
     },
     {
-        "name": "",
-        "owned": false
+        "name": "Un monde dans lequel mieux vaut mourrir",
+        "owned": true
     },
     {
         "name": "",
