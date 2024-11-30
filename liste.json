@@ -157,7 +157,7 @@
     },
     {
         "name": "Gear",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Déclaration de guerre",
@@ -172,7 +172,7 @@
         "owned": true
     },
     {
-        "name": "JRentrons",
+        "name": "Rentrons",
         "owned": true
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "name": "À l'aube d'une grande aventure vers le nouveau monde",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Périple sur l'île des hommes-poissons",
@@ -249,11 +249,11 @@
     },
     {
         "name": "Otohime et Tiger",
-        "owned": false
+        "owned": true
     },
     {
         "name": "100 000 vs 10",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Table rase",
@@ -281,7 +281,7 @@
     },
     {
         "name": "Le Colisée de tous les dangers",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Les Oubliés de Dressrosa",
@@ -309,7 +309,7 @@
     },
     {
         "name": "L'Icône du mal",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Lucy !!",
