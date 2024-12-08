@@ -105,15 +105,15 @@
     },
     {
         "name": "prélude",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Wiper le démon furieux",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Oratorio",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Capriccio",
@@ -145,15 +145,15 @@
     },
     {
         "name": "Monsieur Tom",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Rocketman !",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Opération sauvetage",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Gear",
