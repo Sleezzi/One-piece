@@ -181,19 +181,19 @@
     },
     {
         "name": "Aventure sur l'île fantôme",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Temps couvert avec chutes d'os par moments",
-        "owned": false
+        "owned": true
     },
     {
         "name": "L'Aventure d'Oz",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Nightmare Luffy",
-        "owned": false
+        "owned": true
     },
     {
         "name": "De nouveau face au mur",
@@ -221,7 +221,7 @@
     },
     {
         "name": "Merci pour tout",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Guerre au sommet",
@@ -237,7 +237,7 @@
     },
     {
         "name": "Petit frère",
-        "owned": false
+        "owned": true
     },
     {
         "name": "À l'aube d'une grande aventure vers le nouveau monde",
@@ -432,7 +432,7 @@
         "owned": true
     },
     {
-        "name": "",
+        "name": "De ton cotés",
         "owned": false
     }
 ]
