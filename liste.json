@@ -137,7 +137,7 @@
     },
     {
         "name": "Capitaine",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Justice n°9",
@@ -285,23 +285,23 @@
     },
     {
         "name": "Les Oubliés de Dressrosa",
-        "owned": false
+        "owned": true
     },
     {
         "name": "L'Opération Dressrosa S.O.P",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Je serai toujours à tes côtés",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Ma gratitude",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Poursuis ta route !",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Smile",
@@ -353,7 +353,7 @@
     },
     {
         "name": "Bad End Musical",
-        "owned": false
+        "owned": true
     },
     {
         "name": "La Terre sainte de Marie Joie",
@@ -413,7 +413,7 @@
     },
     {
         "name": "Momonosuké Kozuki, shogun du Pays des Wa",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Le Rêve de Luffy",
@@ -432,7 +432,11 @@
         "owned": true
     },
     {
-        "name": "De ton cotés",
-        "owned": false
+        "name": "Toujours de ton coté",
+        "owned": true
+    },
+    {
+        "name": "Les remous d'une époque",
+        "owned": true
     }
 ]
