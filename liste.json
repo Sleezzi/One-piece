@@ -313,7 +313,7 @@
     },
     {
         "name": "Lucy !!",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Vers une bataille sans précédent",
@@ -365,7 +365,7 @@
     },
     {
         "name": "La Grande Courtisane Komurasaki",
-        "owned": false
+        "owned": true
     },
     {
         "name": "La Coqueluche du village d'Ebisu",
@@ -417,15 +417,15 @@
     },
     {
         "name": "Le Rêve de Luffy",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Le Rêve d'un génie",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Le Héros de la légende",
-        "owned": false
+        "owned": true
     },
     {
         "name": "Un monde dans lequel mieux vaut mourrir",
@@ -437,6 +437,18 @@
     },
     {
         "name": "Les remous d'une époque",
+        "owned": true
+    },
+    {
+        "name": "Aventure à Erbaf",
+        "owned": true
+    },
+    {
+        "name": "Haley",
+        "owned": true
+    },
+    {
+        "name": "La naissance de Loki",
         "owned": true
     }
 ]
